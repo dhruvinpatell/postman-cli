@@ -1,0 +1,25 @@
+{
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/json",
+    "dnt": "1",
+    "origin": "https://mtr-competition.fundingpips.com",
+    "priority": "u=1, i",
+    "referer": "https://mtr-competition.fundingpips.com/login",
+    "sec-ch-ua": "\"Google Chrome\";v=\"131\", \"Chromium\";v=\"131\", \"Not_A Brand\";v=\"24\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+    "User-Agent": "PostmanRuntime/7.43.2",
+    "Accept": "*/*",
+    "Host": "mtr-competition.fundingpips.com",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "105",
+    "Cookie": "co-auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhY2NvdW50X3V1aWQiOiI1YmUyMjgyNS04MzM2LTRjODEtYjQzMy03ZmQyYzcxMTNjNDEiLCJtYW5hZ2VyX3Njb3BlIjoiNWJlMjI4MjUtODMzNi00YzgxLWI0MzMtN2ZkMmM3MTEzYzQxIiwidXNlcl9uYW1lIjoiamFsaXNhX21vcmVubzE1QG91dGxvb2suY29tOjEiLCJmbCI6bnVsbCwic2NvcGUiOltdLCJwYXJ0bmVySWQiOjEsImV4cCI6MTc0MjIxNDcyMCwianRpIjoiODRmODY4ZDItZjY2Yi00MDUzLTgxYTAtMTFmZmJhZWQxZjg0IiwiZW1haWwiOiJqYWxpc2FfbW9yZW5vMTVAb3V0bG9vay5jb20iLCJhdXRob3JpdGllcyI6WyJFTUFJTF9SRUFEIiwiUEhPTkVfUkVBRCIsIlJPTEVfVVNFUiIsIlVTRVIiXSwiY2xpZW50X2lkIjoibGl2ZU10cjFDbGllbnQifQ.4KddhP1y0nZIQA1uf5JyyO2qRuHXFSP500QxD14g6g0"
+  }
+}
