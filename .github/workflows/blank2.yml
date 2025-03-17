@@ -19,4 +19,4 @@ jobs:
         run: |
           postman collection run "43090239-6915ce11-d726-470b-b976-e8a1452aa128" `
             -e "43090239-081846a6-422f-4e26-880e-a9272e5901f1" `
-            --iteration-data "./data.csv" --verbose
+            --iteration-data "./data.csv" --insecure
