@@ -19,7 +19,7 @@ puppeteer.use(StealthPlugin());
   );
 
   console.log('Navigating to https://mtr-competition.fundingpips.com/login...');
-  await page.goto('https://mtr-competition.fundingpips.com/login', {
+  await page.goto('https://fundingpips.com/', {
     waitUntil: 'networkidle2',
   });
 
